@@ -1,0 +1,46 @@
+.hd{
+	background-color:black;
+	
+	
+	font-size:200%;
+}
+#left{
+float:left;}
+#right{
+float:right;}
+#info{
+	float:center;
+	display:block;
+	border:2px dashed black;
+}
+.xx{
+	    padding-top: 50px;
+    padding-bottom: 50px;
+}
+div.jumbotron {
+  display: flex;
+
+  background-image: url('http://www.desktopimages.org/pictures/2014/0521/1/2014-transformers-4-age-of-extinction-decepticons-logo-wallpaper-62514.jpg');
+  background-size: cover;
+  height: 450px;
+  text-shadow: 0.25px 0.25px 0.25px #000000;
+  
+  
+}
+
+.jumbotron h2 {
+  font-size: 60px;
+  font-weight: 700;
+  margin: 0;
+  color: #fff;
+}
+
+.jumbotron h3 {
+  margin: 0 0 20px;
+  color: #fff;
+}
+
+div.row img {
+  margin: 0 0 30px;
+  width: 100%;
+}
